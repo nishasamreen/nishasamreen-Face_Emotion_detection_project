@@ -62,7 +62,7 @@ This project performs real-time facial emotion analysis through webcam input and
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/emotion-detection-dashboard.git
+git clone https://github.com/nishasamreen/nishasamreen-Face_Emotion_detection_project.git
 ```
 
 ### 2️⃣ Navigate to Project Folder
@@ -115,5 +115,3 @@ Through this project, **Nisha Samreen** gained practical experience in:
 ## Nisha Samreen
 
 AI & Software Development Enthusiast passionate about building intelligent and interactive real-world applications.
-
-```
